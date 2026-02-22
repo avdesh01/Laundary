@@ -1,7 +1,7 @@
 # Laundry Website
 
 ## 🔗 Live Demo
-https://your-vercel-link.vercel.app
+https://avdesh01.github.io/Laundary/
 
 ## 📂 GitHub Repo
 https://github.com/avdesh01/Laundary
